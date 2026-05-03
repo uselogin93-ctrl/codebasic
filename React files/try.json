@@ -1,0 +1,150 @@
+{
+    "name": "Shashikant Giri",
+    "skills": {
+        "microsoftApp": [
+            "Word",
+            "Excel",
+            "PowerPoint"
+        ],
+        "pcUsed": [
+            "Windows"
+        ],
+        "programmingLanguage": [
+            "C Programs",
+            "C++"
+        ],
+        "uiDesign": [
+            "Figma"
+        ],
+        "frontEnd": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React Js",
+            "Next Js",
+            "Vite"
+        ],
+        "cssLibrary": [
+            "Bootstrap",
+            "Tailwind CSS"
+        ],
+        "cssAnimations": [
+            "Frame Motion"
+        ],
+        "backend": [
+            "Node JS",
+            "Express Js",
+            "Nodemon",
+            "NPM"
+        ],
+        "apiTesting": [
+            "Postman"
+        ],
+        "database": [
+            "MongoDB",
+            "MySql"
+        ],
+        "deployCode": [
+            "Vercel",
+            "Netlify",
+            "Cloudflare",
+            "infinityfree"
+        ],
+        "tools": [
+            "VS Code",
+            "Github",
+            "Github desktop",
+            "Cursor",
+            "Anti gravity",
+            "Excel",
+            "Power Bi",
+            "Mongodb compass",
+            "MySQL Workbench"
+        ]
+    },
+    "projects": [
+        {
+            "name": "Getmychap---fund-raising-website",
+            "githubLink": "https://github.com/Shashikantgiri-web/Getmychap---fund-raising-website",
+            "liveLink": "https://getmychap-fund-raising-website.vercel.app/"
+        },
+        {
+            "name": "Link Tree",
+            "githubLink": "https://github.com/Shashikantgiri-web/LinkTree-Clone",
+            "liveLink": "https://linktree-pink-eight.vercel.app/"
+        },
+        {
+            "name": "URL Shortener",
+            "githubLink": "https://github.com/Shashikantgiri-web/Url-Shortener",
+            "liveLink": "https://url-shortener-seven-orpin.vercel.app/"
+        },
+        {
+            "name": "TO-DO List",
+            "githubLink": "https://github.com/Shashikantgiri-web/Todo-App",
+            "liveLink": "https://todo-app-gamma-eight-67.vercel.app/"
+        },
+        {
+            "name": "PassOP",
+            "githubLink": "https://github.com/Shashikantgiri-web/PassOP",
+            "liveLink": "https://pass-op-phi-nine.vercel.app/"
+        },
+        {
+            "name": "Twitter(X.com)",
+            "githubLink": "https://github.com/Shashikantgiri-web/Twitter-X.com-",
+            "liveLink": "https://twitter-x-com.vercel.app/"
+        },
+        {
+            "name": "Bootstrap_portfolio",
+            "githubLink": "https://github.com/Shashikantgiri-web/Bootstrap_portfolio",
+            "liveLink": "https://bootstrap-portfolio.infinityfreeapp.com/?i=1"
+        },
+        {
+            "name": "Bookoe",
+            "githubLink": "https://github.com/Shashikantgiri-web/Bookoe",
+            "liveLink": "https://bookoe.netlify.app/"
+        },
+        {
+            "name": "Tiktok game",
+            "githubLink": "https://github.com/uselogin93-ctrl/Games-testing",
+            "liveLink": "https://levelup-zone.vercel.app/"
+        }
+    ],
+    "dataAnalysis": [
+        "Excel",
+        "Power Bi(basic)",
+        "MySql",
+        "python(basic)"
+    ],
+    "EDUCATION": [
+        {
+            "name": "Terna Vidyalaya Jr.College",
+            "course": "12th",
+            "year": "2020 - 2023"
+        },
+        {
+            "name": "Chhatrapati Shivaji Maharaj University",
+            "course": "Bsc.IT",
+            "year": "2023 - 2026",
+            "currently": "pursuing"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Maharashtra state certificate in information Technology(MSCIT)",
+            "issuedBy": "MKCL",
+            "year": "September 2023"
+        },
+        {
+            "name": "SSC Certificate Courses of Programming (C & C++)",
+            "issuedBy": "SSC",
+            "year": "May 2024"
+        },
+        {
+            "name": "Data Science with AIML",
+            "issuedBy": "Coder Techologies",
+            "year": "Jan 2026",
+            "currently": "pursuing"
+        }
+    ]
+}
+
