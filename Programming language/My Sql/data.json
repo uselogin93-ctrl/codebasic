@@ -1,0 +1,75 @@
+[
+  {
+    "Name": "Aarav Patel",
+    "Age": 15,
+    "Gender": "Male",
+    "couser": "Robotics",
+    "pass or falls": "pass",
+    "attendance": 92,
+    "Behave in class": "Good"
+  },
+  {
+    "Name": "Mia Sharma",
+    "Age": 14,
+    "Gender": "Female",
+    "couser": "Robotics",
+    "pass or falls": "pass",
+    "attendance": 86,
+    "Behave in class": "Excellent"
+  },
+  {
+    "Name": "Vihaan Singh",
+    "Age": 16,
+    "Gender": "Male",
+    "couser": "Software Development",
+    "pass or falls": "pass",
+    "attendance": 78,
+    "Behave in class": "Good"
+  },
+  {
+    "Name": "Zoya Khan",
+    "Age": 15,
+    "Gender": "Female",
+    "couser": "Software Development",
+    "pass or falls": "falls",
+    "attendance": 61,
+    "Behave in class": "Needs Improvement"
+  },
+  {
+    "Name": "Arjun Mehta",
+    "Age": 14,
+    "Gender": "Male",
+    "couser": "Data Science",
+    "pass or falls": "pass",
+    "attendance": 89,
+    "Behave in class": "Excellent"
+  },
+  {
+    "Name": "Sara Rodrigues",
+    "Age": 16,
+    "Gender": "Female",
+    "couser": "Data Science",
+    "pass or falls": "pass",
+    "attendance": 82,
+    "Behave in class": "Good"
+  },
+  {
+    "Name": "Kabir Joshi",
+    "Age": 15,
+    "Gender": "Male",
+    "couser": "Mathematics",
+    "pass or falls": "falls",
+    "attendance": 58,
+    "Behave in class": "Needs Improvement"
+  },
+  {
+    "Name": "Nour Al-Hassan",
+    "Age": 14,
+    "Gender": "Female",
+    "couser": "Mathematics",
+    "pass or falls": "pass",
+    "attendance": 91,
+    "Behave in class": "Excellent"
+  }
+]
+
